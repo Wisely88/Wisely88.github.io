@@ -1,0 +1,3 @@
+:HL["/_next/static/css/3732e0750c585251.css","style"]
+:HL["/_next/static/css/c76c2a39d50bbf66.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"mu-ke","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"YM0snbP0-y50GjO4JSATz"}
