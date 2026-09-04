@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "meng-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T06:58:22.545Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/meng-lang/seg-001.mp3",
+      "durationMs": 336744,
+      "checksum": "f8847f19ca3655e2c4f7f1e86f21991c52b6a337fe054314783919e9850fbb84",
+      "sourceHash": "1c69002ccb94c1ec69100a2dd72619534db0eb860a9dc307192371fbdaa91d6b"
+    }
+  ]
+}

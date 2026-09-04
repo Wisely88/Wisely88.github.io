@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "cao-gui-lun-zhan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:49:39.479Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/cao-gui-lun-zhan/seg-001.mp3",
+      "durationMs": 74832,
+      "checksum": "4ffef226eeb04f08079067b90b0f79e962b562776356d3b8c41c988a490fd468",
+      "sourceHash": "b95c91d0831855bc68a494446e66efe13c350d6c89785c308970f81141ca24b1"
+    }
+  ]
+}

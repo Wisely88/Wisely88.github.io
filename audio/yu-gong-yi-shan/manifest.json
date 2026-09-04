@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "yu-gong-yi-shan",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:51:23.796Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yu-gong-yi-shan/seg-001.mp3",
+      "durationMs": 59040,
+      "checksum": "22035f58b350c55bd38684e4464eca09d34a352b2bea38de02a30bbca7311c47",
+      "sourceHash": "8cee9009effd15596ba4a10fbf950786979dc16b4929301de5a5cd5670178c4e"
+    }
+  ]
+}

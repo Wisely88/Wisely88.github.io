@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "si-wen-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:56.392Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/si-wen-lang/seg-001.mp3",
+      "durationMs": 24192,
+      "checksum": "669369c443b894f32269dd63438aff59f35a75041ad1dec0b3e077452249b1d2",
+      "sourceHash": "228422b71b3d27b7d28defd8609dc106810b35e85670ba795eac7981a9128cca"
+    }
+  ]
+}

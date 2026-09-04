@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "chang-qing-seng",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:49:44.312Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chang-qing-seng/seg-001.mp3",
+      "durationMs": 26376,
+      "checksum": "1089f24cc70f0bd26b1524042425f12f19442ec292274df6659bb8bd92fdfba6",
+      "sourceHash": "349b0628ac6e97851cc05f85e48d0ea4ccf0a847f63f31b055d1f182c086cc7a"
+    }
+  ]
+}

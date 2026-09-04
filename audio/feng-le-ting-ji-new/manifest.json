@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "feng-le-ting-ji-new",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:49:58.302Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/feng-le-ting-ji-new/seg-001.mp3",
+      "durationMs": 42600,
+      "checksum": "70dd692eb9c51e9c420e910f6db35376382abcb79b23c2c2022316bb5643d465",
+      "sourceHash": "f8e37ff2b16f4b815f5f5d309ebdc2d1f3993135621f4271d148e890afb4dbd3"
+    }
+  ]
+}

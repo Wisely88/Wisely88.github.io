@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "qian-zhi-lv",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:46.339Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/qian-zhi-lv/seg-001.mp3",
+      "durationMs": 43896,
+      "checksum": "3cc5ffab1bf1c505f45db28df87f6ba049b2404c6869a7f0f4af3b8a95aabd14",
+      "sourceHash": "71a12b2bf9417a96650f08d36cf530e151dce3074b4180fceb2503e9f53ff005"
+    }
+  ]
+}

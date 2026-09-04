@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "lang-shi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:21.454Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/lang-shi/seg-001.mp3",
+      "durationMs": 41256,
+      "checksum": "31e1ac5fcbbc3cd20353596114a234bcff96f795f21083c6f6d8c4bbc78ad124",
+      "sourceHash": "b74c20eae1c8a0eae983f0294a9b3d9939239581c1f8f7ac4f86db222e2a2eb5"
+    }
+  ]
+}

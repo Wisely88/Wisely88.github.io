@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "ye-gong-hao-long",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:51:14.387Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ye-gong-hao-long/seg-001.mp3",
+      "durationMs": 22296,
+      "checksum": "4c06d95f4b1a0ad4350c678ed2b3774269085f3b0ccef951283a4b348917a3ee",
+      "sourceHash": "f3726d819a77566ca3b4c3e28f0bbdcca670dded863dafea5c2ec6e649162d97"
+    }
+  ]
+}

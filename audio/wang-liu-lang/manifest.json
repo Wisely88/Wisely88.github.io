@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "wang-liu-lang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:59.955Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/wang-liu-lang/seg-001.mp3",
+      "durationMs": 29016,
+      "checksum": "9bab9e90941ba608bf9e2e9625a2c396a3fe9e035f76d743077a07e70933d829",
+      "sourceHash": "97b73011c2600eb3b195e1801b6cb4fd598ba3bc885ce0a788aa8882962b8cea"
+    }
+  ]
+}

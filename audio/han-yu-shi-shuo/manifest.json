@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "han-yu-shi-shuo",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:08.690Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/han-yu-shi-shuo/seg-001.mp3",
+      "durationMs": 40536,
+      "checksum": "bfbf3612556da7d75fa146ae09e9bcbf8c6e0f3e258b42ffb070a47df8beda71",
+      "sourceHash": "bd293ae783b2f7d928cda7b376eb7630981c234bfe53c1308a3ac00d63520202"
+    }
+  ]
+}

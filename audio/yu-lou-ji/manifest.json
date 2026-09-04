@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "yu-lou-ji",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:51:30.189Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/yu-lou-ji/seg-001.mp3",
+      "durationMs": 40008,
+      "checksum": "a8a6903aa20c796c037425b2e7466ec431bf28f996d3306e25ea51ffa39b3a57",
+      "sourceHash": "5a060ff8fc7491f016104d1ed30cbc9515e5a76ec079af89a3dc82e1062eeef8"
+    }
+  ]
+}

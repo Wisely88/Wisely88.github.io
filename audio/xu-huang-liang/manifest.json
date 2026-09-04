@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "xu-huang-liang",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:51:09.962Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/xu-huang-liang/seg-001.mp3",
+      "durationMs": 36576,
+      "checksum": "0f5156bc105217bed1d7b1e56b73255444d5b70116005cd96aa1d18c624d9517",
+      "sourceHash": "775fc7de9709a46b1ac50b0e285a8af4854886e0c4e443f58162d9c474a82453"
+    }
+  ]
+}

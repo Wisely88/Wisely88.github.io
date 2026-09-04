@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "shou-zhu-dai-tu",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:50.785Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/shou-zhu-dai-tu/seg-001.mp3",
+      "durationMs": 13224,
+      "checksum": "ded546222e86ee2e474bf1ca0d755cf14153726871956472641fc7c5c9dd8fd2",
+      "sourceHash": "b669f4365d62edb3f424fc6b3f6d7c932f0b993c3fde26db2011c95e4938649f"
+    }
+  ]
+}

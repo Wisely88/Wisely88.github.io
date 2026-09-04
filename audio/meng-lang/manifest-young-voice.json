@@ -2,17 +2,17 @@
   "version": 1,
   "workId": "meng-lang",
   "provider": "edge-neural",
-  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-1Hz|voiceId=young-voice",
+  "voice": "zh-CN-YunxiNeural|rate=-8%|pitch=-4Hz|voiceId=young-voice",
   "voiceId": "young-voice",
   "format": "mp3",
-  "generatedAt": "2026-09-04T02:20:39.850Z",
+  "generatedAt": "2026-09-04T06:58:38.164Z",
   "segments": [
     {
       "id": "seg-001",
       "url": "/audio/meng-lang/seg-001-voice-young-voice.mp3",
-      "durationMs": 13896,
-      "checksum": "4165c6d9a9384f8d6c0e13d91279d5ffe215dc84fe6b759fe91b8b695a3e551f",
-      "sourceHash": "294bfa9d446dabb8539750448e396054bfaaee837ac5906f54d1ebcff67f0055"
+      "durationMs": 336648,
+      "checksum": "6070b19c90b164bacd57c0e9970ec4ea35dc4dc8927a0213304b6dbdb4f3110e",
+      "sourceHash": "14fa0294bb66b6dec537f559c10d536db2948f79e21a9edcb31c172ad5274193"
     }
   ]
 }

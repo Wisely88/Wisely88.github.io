@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "ye-xing",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:51:19.175Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/ye-xing/seg-001.mp3",
+      "durationMs": 23880,
+      "checksum": "51c45911a84fa1e0544e8c46648dcc394e506333d87ecb520b7d9ebff44eec85",
+      "sourceHash": "8a8c4d0a2d66e4315318980153381e30bed9fcc73c3f014f042a6ffa17dcdeba"
+    }
+  ]
+}

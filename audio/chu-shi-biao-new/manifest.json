@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "chu-shi-biao-new",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:49:50.230Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/chu-shi-biao-new/seg-001.mp3",
+      "durationMs": 41856,
+      "checksum": "9fc5cffacab1756997b5a3176cdf920ab76db49c4e6cbda807bba168131567f6",
+      "sourceHash": "647a707289427e45506f96884b8c96073add30512042fb52ef9284984c4d7486"
+    }
+  ]
+}

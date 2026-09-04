@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "zou-ji-feng-qi-wang-na-jian",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:51:38.470Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/zou-ji-feng-qi-wang-na-jian/seg-001.mp3",
+      "durationMs": 85872,
+      "checksum": "56da17c91bad991093049fff89d06e4e2d45b089e37c3a28951a6536e4b50aee",
+      "sourceHash": "3258615ae9bcca95dbfec3de42498c3dbe7c9fc46f05ed4725e7bb48c53dee55"
+    }
+  ]
+}

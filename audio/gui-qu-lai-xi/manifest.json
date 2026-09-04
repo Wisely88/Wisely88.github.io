@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "gui-qu-lai-xi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:01.993Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/gui-qu-lai-xi/seg-001.mp3",
+      "durationMs": 34224,
+      "checksum": "139c8c68b152eab5c32364a499bb32baa404ffa7d1021eef7865f28e5b6b7e2a",
+      "sourceHash": "36ce7243139305bb67ca4c45120d4ea2785e210cb4c2c6ba7c6ef5a1176e915c"
+    }
+  ]
+}

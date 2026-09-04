@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "workId": "hua-bi",
+  "provider": "edge-neural",
+  "voice": "zh-CN-XiaoxiaoNeural|rate=-12%|pitch=-2Hz",
+  "format": "mp3",
+  "generatedAt": "2026-09-04T03:50:15.772Z",
+  "segments": [
+    {
+      "id": "seg-001",
+      "url": "/audio/hua-bi/seg-001.mp3",
+      "durationMs": 25680,
+      "checksum": "00df26384612c59d4ea17ba6ce68963e21e9c64ee672802af9b070a0d7cf7827",
+      "sourceHash": "3134895a056df9cf463e9e94bdba24e1e53274e08b41df7aa579dd0b2b1fffc9"
+    }
+  ]
+}
