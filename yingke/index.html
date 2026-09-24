@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>影壳 Demo · 个人播放器原型</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div id="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="logo">影</span>
+        <div>
+          <strong>影壳</strong>
+          <small>个人壳 · Demo</small>
+        </div>
+      </div>
+      <nav id="navCats"></nav>
+      <div class="sidebar-foot">
+        <p>壳只认统一 JSON<br />片源由适配器提供</p>
+        <button type="button" id="btnArchitecture">看架构</button>
+      </div>
+    </aside>
+    <main>
+      <header class="topbar">
+        <input id="search" type="search" placeholder="搜索片名、演员、年份…" autocomplete="off" />
+        <div class="source-pills" id="sourcePills"></div>
+      </header>
+      <section id="hero" class="hero"></section>
+      <section id="gridWrap">
+        <h2 id="gridTitle">全部</h2>
+        <div id="grid" class="grid"></div>
+      </section>
+    </main>
+  </div>
+  <div id="detail" class="modal hidden" role="dialog"></div>
+  <div id="playerModal" class="modal hidden" role="dialog">
+    <div class="player-box">
+      <div class="player-bar">
+        <button type="button" id="closePlayer">关闭</button>
+        <span id="playerTitle"></span>
+        <select id="lineSelect"></select>
+      </div>
+      <video id="video" controls playsinline></video>
+      <p class="hint" id="playerHint"></p>
+    </div>
+  </div>
+  <div id="archModal" class="modal hidden">
+    <div class="arch-card">
+      <button type="button" class="x" id="closeArch">×</button>
+      <h3>这个 Demo 在演示什么</h3>
+      <pre class="arch">播放壳（本页）
+  ├─ 搜索 / 分类 / 详情 / 多线路
+  └─ 统一媒体模型
+        ▲
+   data.js + app.js</pre>
+      <p>当前没有接入任何商业视频网站解析。播放地址都在 data.js。</p>
+    </div>
+  </div>
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
